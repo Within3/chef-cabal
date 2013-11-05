@@ -1,3 +1,7 @@
+## 0.1.3 (November 5, 2013)
+
+* Allow low-level configuration options to be passed to cabal.
+
 ## 0.1.2 (April 12, 2013)
 
 * Bug fix for handling missing cabal index file on update.
